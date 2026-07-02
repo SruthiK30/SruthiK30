@@ -74,7 +74,6 @@ Computer Science graduate passionate about building intelligent software and sol
 
 Real-time object detection using YOLO for efficient object localization.
 
-🔗 https://github.com/SruthiK30/YOLO-Based-Real-Time-3D-Object-Detection
 
 ---
 
@@ -82,7 +81,6 @@ Real-time object detection using YOLO for efficient object localization.
 
 Image classification using ResNet-18 with semi-supervised learning.
 
-🔗 https://github.com/SruthiK30/A-multi-class-image-classifier
 
 ---
 
@@ -90,21 +88,12 @@ Image classification using ResNet-18 with semi-supervised learning.
 
 Retrieval-Augmented Generation (RAG) application built for a hackathon.
 
-🔗 https://github.com/SruthiK30/face-rag-hackathon
 
 ---
 
 ### 🔹 Customer Churn Analytics
 
 Machine learning dashboard built with Streamlit for customer churn prediction and business insights.
-
----
-
-## 📊 GitHub Stats
-
-![Sruthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SruthiK30\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SruthiK30\&layout=compact\&theme=tokyonight)
 
 ---
 
