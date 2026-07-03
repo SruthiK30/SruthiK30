@@ -70,30 +70,27 @@ Computer Science graduate passionate about building intelligent software and sol
 
 ## 🚀 Featured Projects
 
-### 🔹 YOLO-Based Real-Time 3D Object Detection
+### 🔹 [AI-Based Medical Image Tamper Detection and Localization](https://github.com/SruthiK30/Medical-Image-Tamper-Detection)
 
-Real-time object detection using YOLO for efficient object localization.
-
-
----
-
-### 🔹 Multi-Class Image Classifier
-
-Image classification using ResNet-18 with semi-supervised learning.
-
+AI-powered framework for detecting and localizing tampered regions in medical images
 
 ---
 
-### 🔹 Face RAG Hackathon
-
-Retrieval-Augmented Generation (RAG) application built for a hackathon.
-
-
----
-
-### 🔹 Customer Churn Analytics
+### 🔹 [Customer Churn Analytics](https://github.com/SruthiK30/Customer-Churn-Analytics)
 
 Machine learning dashboard built with Streamlit for customer churn prediction and business insights.
+
+---
+
+### 🔹 [Job Board Application]((https://github.com/SruthiK30/JobBoard)
+
+A full-stack job board with a clean REST API, MongoDB-backed pagination, and role-based authorization using cookies. 
+
+---
+
+### 🔹 [Smart Crop Weather & Pest Predictor](https://github.com/SruthiK30/PestPrediction)
+
+AI-powered crop weather & pest prediction app using LSTM, with a Gemini-powered farming chatbot.
 
 ---
 
