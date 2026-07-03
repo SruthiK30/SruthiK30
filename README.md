@@ -82,7 +82,7 @@ Machine learning dashboard built with Streamlit for customer churn prediction an
 
 ---
 
-### 🔹 [Job Board Application]((https://github.com/SruthiK30/JobBoard)
+### 🔹 [Job Board Application](https://github.com/SruthiK30/JobBoard)
 
 A full-stack job board with a clean REST API, MongoDB-backed pagination, and role-based authorization using cookies. 
 
