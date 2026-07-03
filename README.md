@@ -57,7 +57,8 @@ Computer Science graduate passionate about building intelligent software and sol
 * TypeScript
 * HTML
 * CSS
-* Flask
+* Node.js
+* Mongo DB
 
 ### Tools
 
